@@ -11,8 +11,8 @@ export class Main extends Component {
 
   createTemplate() {
     return `
-     <main>
-     <main class="main">
+    <main>
+    <main class="main">
         <section class="series">
           <h2 class="section-title">Series list</h2>
           <section class="series-pending">
